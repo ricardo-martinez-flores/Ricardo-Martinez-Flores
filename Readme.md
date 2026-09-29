@@ -31,20 +31,6 @@ across different life stages.
   robust regression -- linear and nonlinear approaches
 - Implementation in Python and R
 
-**Projects**
-- **Eye-AD** -- Oculomotor biomarkers (cognitive vergence + pupillary response)
-  as proxies for CSF-validated Alzheimer's neuropathology in MCI, and
-  oculomotor training as a non-pharmacological intervention to improve
-  neurodegenerative biomarkers and cognition in MCI.
-  University of Barcelona / Hospital del Mar / Hospital Clinic de Barcelona.
-- **SAPIENS** -- Pupillary dynamics across 9 cognitive load conditions
-  in healthy young adults.
-  Pontificia Universidad Catolica de Valparaiso, Chile.
-- **Cogni-Action** -- Eye-tracking and neuroimaging to examine how physical
-  activity modalities modulate reading comprehension and cognitive load
-  in adolescents.
-  Pontificia Universidad Catolica de Valparaiso, Chile.
-
 **Affiliations**
 - Institute of Neurosciences, University of Barcelona (UBNeuro), Barcelona, Spain
 - Vision and Control of Action Group, Department of Cognition, Development
